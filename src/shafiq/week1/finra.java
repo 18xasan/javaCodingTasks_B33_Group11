@@ -1,4 +1,4 @@
-package week1;
+package shafiq.week1;
 
 public class finra {
     public static void main(String[] args) {
