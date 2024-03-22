@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4895c0c7-fa86-4114-abb7-283eb63ad652" name="Changes" comment="week1 solutions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shafiq/week1/divisionWithoutOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shafiq/week1/divisionWithoutOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shafiq/week1/finra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shafiq/week1/Finra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shafiq/week1/oddOrEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shafiq/week1/OddOrEven.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,26 +19,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shafiqbayat"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="75fb375e-29c1-42e6-8ac2-9a14585e2610" />
-        <option name="url" value="https://github.com/kirpimarmot/javaCodingTasks_B33_Group11.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
+
   <component name="ProjectId" id="2e0RZVHHV9gJGpZfVV06v8lToDx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,10 +32,9 @@
     "Application.shafiq.week1.divisionWithoutOperator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "shafiq",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/shafiqullahbayat/IdeaProjects/javaCodingTasks_B33_Group11/src/shafiq/week1",
+
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,78 +49,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/shafiq/week1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.DivisionWithoutOperatorUsingMathClass">
-    <configuration name="DivisionWithoutOperatorUsingMathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shafiq.week1.DivisionWithoutOperatorUsingMathClass" />
-      <module name="javaCodingTasks_B33_Group11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="shafiq.week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OddOrEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shafiq.week1.OddOrEven" />
-      <module name="javaCodingTasks_B33_Group11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="shafiq.week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="divisionWithoutOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.divisionWithoutOperator" />
-      <module name="javaCodingTasks_B33_Group11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="shafiq.week1.divisionWithoutOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shafiq.week1.divisionWithoutOperator" />
-      <module name="javaCodingTasks_B33_Group11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="shafiq.week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.DivisionWithoutOperatorUsingMathClass" />
-        <item itemvalue="Application.shafiq.week1.divisionWithoutOperator" />
-        <item itemvalue="Application.OddOrEven" />
-        <item itemvalue="Application.divisionWithoutOperator" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-11.0.22-corretto-11.0.22-3183f394aec4-fdae186d" />
-      </set>
-    </attachedChunks>
-  </component>
+
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -154,15 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711039568185</updated>
       <workItem from="1711039571531" duration="10000" />
-      <workItem from="1711041332906" duration="6302000" />
-    </task>
-    <task id="LOCAL-00001" summary="week1 solutions">
-      <option name="closed" value="true" />
-      <created>1711042354789</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1711042354789</updated>
+
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -175,26 +72,11 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="shafiq" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="week1 solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="week1 solutions" />
-  </component>
+
 </project>
