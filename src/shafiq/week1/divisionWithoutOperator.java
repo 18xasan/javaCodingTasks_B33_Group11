@@ -14,7 +14,7 @@ public class divisionWithoutOperator {
 
     public static void main(String[] args) {
 
-        System.out.println(divide(10,2));
+        System.out.println(divide(18,3));
     }
 
 
