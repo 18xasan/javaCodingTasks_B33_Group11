@@ -7,7 +7,7 @@ public class DivisionWithoutOperatorUsingMathClass {
     }
 
     public static void main(String[] args) {
-        System.out.println(divide(20,222));
+        System.out.println(divide(20,2));
     }
 
 

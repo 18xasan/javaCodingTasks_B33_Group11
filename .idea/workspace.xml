@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-
+    <list default="true" id="e355bed2-cc25-428a-8853-9b5344cdfd28" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shafiq/week1/DivisionWithoutOperatorUsingMathClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shafiq/week1/DivisionWithoutOperatorUsingMathClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shafiq/week1/divisionWithoutOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shafiq/week1/divisionWithoutOperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +22,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-
   <component name="ProjectId" id="2e0RZVHHV9gJGpZfVV06v8lToDx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -27,14 +29,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.OddOrEven.executor": "Run",
+    "Application.DivisionWithoutOperatorUsingMathClass.executor": "Run",
+    "Application.Finra.executor": "Run",
     "Application.divisionWithoutOperator.executor": "Run",
-    "Application.shafiq.week1.divisionWithoutOperator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-
+    "git-widget-placeholder": "shafiq",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,13 +44,67 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.updates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-
+    <key name="CopyFile.RECENT_KEYS" />
+  </component>
+  <component name="RunManager" selected="Application.divisionWithoutOperator">
+    <configuration name="DivisionWithoutOperatorUsingMathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shafiq.week1.DivisionWithoutOperatorUsingMathClass" />
+      <module name="javaCodingTasks_B33_Group11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shafiq.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Finra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shafiq.week1.Finra" />
+      <module name="javaCodingTasks_B33_Group11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shafiq.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="divisionWithoutOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shafiq.week1.divisionWithoutOperator" />
+      <module name="javaCodingTasks_B33_Group11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shafiq.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.divisionWithoutOperator" />
+        <item itemvalue="Application.DivisionWithoutOperatorUsingMathClass" />
+        <item itemvalue="Application.Finra" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-3183f394aec4-fdae186d" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +114,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711039568185</updated>
       <workItem from="1711039571531" duration="10000" />
-
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -70,13 +124,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="MAIN">
-          <value>
-
-          </value>
-        </entry>
+        <entry key="MAIN" />
       </map>
     </option>
   </component>
-
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
 </project>
