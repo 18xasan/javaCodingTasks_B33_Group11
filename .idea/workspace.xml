@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4895c0c7-fa86-4114-abb7-283eb63ad652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/atil/week1/divisionWithoutOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atil/week1/finra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atil/week1/oddOrEven.java" afterDir="false" />
-    </list>
+    <list default="true" id="4895c0c7-fa86-4114-abb7-283eb63ad652" name="Changes" comment="week1 all" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,8 +114,17 @@
       <updated>1711039568185</updated>
       <workItem from="1711039571531" duration="10000" />
       <workItem from="1711041499715" duration="700000" />
-      <workItem from="1711681343964" duration="410000" />
+      <workItem from="1711681343964" duration="785000" />
     </task>
+    <task id="LOCAL-00001" summary="week1 all done">
+      <option name="closed" value="true" />
+      <created>1711681939012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711681939012</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,5 +140,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="week1 all done" />
+    <option name="LAST_COMMIT_MESSAGE" value="week1 all done" />
   </component>
 </project>
