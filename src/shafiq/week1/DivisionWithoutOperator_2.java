@@ -32,8 +32,8 @@ public class DivisionWithoutOperator_2 {
     }
 
     public static void main(String[] args) {
-        int dividend = 15;
-        int divisor = 3;
+        int dividend = 20;
+        int divisor = 30;
         int result = divide(dividend, divisor);
         System.out.println("Result of " + dividend + " divided by " + divisor + " is: " + result);
     }
