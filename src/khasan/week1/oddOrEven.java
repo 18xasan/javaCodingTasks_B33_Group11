@@ -4,7 +4,7 @@ public class oddOrEven {
     public static void main(String[] args) {
         //Write  a method which can identifies given number is even or odd
 
-        oddOrEven(2);
+        oddOrEven(3);
     }
 
     public static void oddOrEven(int num) {
